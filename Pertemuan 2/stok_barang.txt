@@ -1,0 +1,11 @@
+BRG001,Tomat,50
+BRG002,Wortel,44
+BRG003,Kol,20
+BRG004,Selada,66
+BRG005,Timun,15
+BRG006,Bawang Merah,70
+BRG007,Bawang Putih,67
+BRG008,Bawang Bombay,24
+BRG009,Jahe,11
+BRG010,kunyit,34
+BRG011,Sawi,35
